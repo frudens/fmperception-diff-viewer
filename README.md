@@ -1,4 +1,4 @@
-# fmperception-diff-viewer
+# fmperception-diff-viewer について
 
 - FMPerceptionのdiffを見やすくするためのファイルです。
 - FMPerceptionからCSVファイルをエクスポートして、CSVファイルをインポートするだけです。
@@ -8,3 +8,7 @@
 - お気づきな点があれば、是非ともご指摘頂ければと思います。
 
 ![diff](screenshot.png)
+
+# 動画
+
+- [fmperception-diff-viewer の 使い方](https://youtu.be/eyfsoSQD7eQ)
