@@ -1,8 +1,6 @@
 # fmperception-diff-viewer について
 
-* ダウンロードはリリースよりお願いします。
-* [https://github.com/frudens/fmperception-diff-viewer/releases](https://github.com/frudens/fmperception-diff-viewer/releases)
-
+* ダウンロードは[リリース](https://github.com/frudens/fmperception-diff-viewer/releases)よりお願いします。
 * FMPerceptionのdiffを見やすくするためのファイルです。
 * FMPerceptionからCSVファイルをエクスポートして、CSVファイルをインポートするだけです。
 * 将来的にdiffのデフォルトがBaseElementsのように見やすくなることを期待しています。
