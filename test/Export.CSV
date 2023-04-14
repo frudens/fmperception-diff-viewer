@@ -1,188 +1,0 @@
-"File","Interface","Location","Message""連絡先.fmp12","DDR","",": attribute 'creationTime' changed from '6:35:23' to '6:36:05'""連絡先.fmp12","File","","連絡先.fmp12: attribute 'path' changed from '/Volumes/Macintosh HD/Users/trhr/git/teruhirokomaki/fmperception-diff-viewer/test/test_norecord/' to '/Volumes/Macintosh HD/Users/trhr/git/teruhirokomaki/fmperception-diff-viewer/test/test_dev/'""連絡先.fmp12","Field Definitions","BASETABLE:連絡先","連絡先: attribute 'records' changed from '1' to '3'""連絡先.fmp12","Field Definitions","BASETABLE:連絡先/FIELD:連絡先 ID 照合フィールド","REFERENCE: Field: 連絡先 ID 照合フィールド: attribute 'nextValue' changed from '2' to '4'""連絡先.fmp12","Field Definitions","BASETABLE:連絡先/FIELD:memo","メモ: attribute 'name' changed from 'メモ' to 'memo'""連絡先.fmp12","Field Definitions","BASETABLE:連絡先/FIELD:memo","Original Field was MOVED relative to others in the hierarchy: メモ""連絡先.fmp12","Field Definitions","BASETABLE:連絡先/FIELD:追加フィールド","Modified Field was created: 追加フィールド""連絡先.fmp12","Relationships","TABLE:連絡先","Original Table was REORDERED relative to others: 連絡先  [position 1 -> 2]""連絡先.fmp12","Relationships","TABLE:連絡先||追加","Modified Table was created: 連絡先||追加""連絡先.fmp12","Layouts","GROUP:デスクトップ/LAYOUT:連絡先詳細/Field","LocalCSS changed from '
-self:normal .self
-{
-	background-image: none;
-	background-color: rgba(0%,0%,0%,0);
-	border-top-style: none;
-	border-right-style: none;
-	border-left-style: none;
-	border-image-source: none;
-}
-self:hover .self
-{
-	background-image: none;
-	background-color: rgba(0%,0%,0%,0);
-	border-image-source: none;
-}
-self:pressed .self
-{
-	background-image: none;
-	background-color: rgba(0%,0%,0%,0);
-	border-top-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-right-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-left-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-image-source: none;
-}
-self:focus .self
-{
-	border-top-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-right-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-left-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	box-shadow: none;
-}
-self:pressed .inner_border
-{
-	box-shadow: none;
-}
-self:normal .text
-{
-	margin-top: 3pt;
-	margin-right: 6pt;
-	margin-bottom: 2pt;
-	margin-left: 6pt;
-}
-self:pressed .icon
-{
-	background-image: none;
-	border-image-source: none;
-	box-shadow: none;
-}
-self:normal .repeat_border
-{
-	border-bottom-color: rgba(83.9216%,83.1373%,79.2157%,1);
-}
-self:pressed .repeat_border
-{
-	border-bottom-color: rgba(72.9412%,71.3726%,65.4902%,1);
-}
-self:focus .repeat_border
-{
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-}
-' to '
-self:normal .self
-{
-	background-image: none;
-	background-color: rgba(0%,0%,0%,0);
-	border-top-style: none;
-	border-right-style: none;
-	border-left-style: none;
-	border-image-source: none;
-}
-self:pressed .self
-{
-	border-top-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-right-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-left-color: rgba(43.7024%,58.5877%,68.1569%,1);
-}
-self:focus .self
-{
-	border-top-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-right-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-left-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	box-shadow: none;
-}
-self:normal .text
-{
-	margin-top: 3pt;
-	margin-right: 6pt;
-	margin-bottom: 2pt;
-	margin-left: 6pt;
-}
-self:normal .repeat_border
-{
-	border-bottom-color: rgba(83.9216%,83.1373%,79.2157%,1);
-}
-self:pressed .repeat_border
-{
-	border-bottom-color: rgba(72.9412%,71.3726%,65.4902%,1);
-}
-self:focus .repeat_border
-{
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-}
-'""連絡先.fmp12","Layouts","GROUP:デスクトップ/LAYOUT:連絡先詳細/Field/FIELD:memo","REFERENCE: Field: メモ: attribute 'name' changed from 'メモ' to 'memo'""連絡先.fmp12","Layouts","GROUP:デスクトップ/LAYOUT:連絡先詳細/Field","LocalCSS changed from '
-self:normal .self
-{
-	background-image: none;
-	background-color: rgba(0%,0%,0%,0);
-	border-top-style: none;
-	border-right-style: none;
-	border-left-style: none;
-	border-image-source: none;
-}
-self:hover .self
-{
-	background-image: none;
-	background-color: rgba(0%,0%,0%,0);
-	border-image-source: none;
-}
-self:pressed .self
-{
-	background-image: none;
-	background-color: rgba(0%,0%,0%,0);
-	border-image-source: none;
-}
-self:focus .self
-{
-	border-top-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-right-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-left-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	box-shadow: none;
-}
-self:pressed .inner_border
-{
-	box-shadow: none;
-}
-self:normal .text
-{
-	margin-top: 3pt;
-	margin-right: 6pt;
-	margin-bottom: 2pt;
-	margin-left: 6pt;
-}
-self:pressed .icon
-{
-	background-image: none;
-	border-image-source: none;
-	box-shadow: none;
-}
-self:focus .repeat_border
-{
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-}
-' to '
-self:normal .self
-{
-	background-image: none;
-	background-color: rgba(0%,0%,0%,0);
-	border-top-style: none;
-	border-right-style: none;
-	border-left-style: none;
-	border-image-source: none;
-}
-self:focus .self
-{
-	border-top-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-right-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	border-left-color: rgba(43.7024%,58.5877%,68.1569%,1);
-	box-shadow: none;
-}
-self:normal .text
-{
-	margin-top: 3pt;
-	margin-right: 6pt;
-	margin-bottom: 2pt;
-	margin-left: 6pt;
-}
-self:focus .repeat_border
-{
-	border-bottom-color: rgba(43.7024%,58.5877%,68.1569%,1);
-}
-'""連絡先.fmp12","Layouts","GROUP:デスクトップ/LAYOUT:連絡先詳細/Text","Height of object changed by +4 pts""連絡先.fmp12","Layouts","GROUP:デスクトップ/LAYOUT:連絡先詳細/Text/STYLE:","Original Style was deleted: REFERENCE: Layout: 連絡先詳細""連絡先.fmp12","Layouts","GROUP:デスクトップ/LAYOUT:連絡先詳細/Text/STYLE:","Modified Style was created: REFERENCE: Layout: 連絡先詳細""連絡先.fmp12","Layouts","GROUP:タブレット/LAYOUT:連絡先詳細 | タブレット/Field/FIELD:memo","REFERENCE: Field: メモ: attribute 'name' changed from 'メモ' to 'memo'""連絡先.fmp12","Layouts","GROUP:タブレット/LAYOUT:連絡先詳細 | タブレット/Text","Height of object changed by +5 pts""連絡先.fmp12","Layouts","GROUP:タブレット/LAYOUT:連絡先詳細 | タブレット/Text/STYLE:","Original Style was deleted: REFERENCE: Layout: 連絡先詳細 | タブレット""連絡先.fmp12","Layouts","GROUP:タブレット/LAYOUT:連絡先詳細 | タブレット/Text/STYLE:","Modified Style was created: REFERENCE: Layout: 連絡先詳細 | タブレット""連絡先.fmp12","Layouts","GROUP:電話/LAYOUT:連絡先詳細 | 電話/Field/FIELD:memo","REFERENCE: Field: メモ: attribute 'name' changed from 'メモ' to 'memo'""連絡先.fmp12","Layouts","GROUP:電話/LAYOUT:連絡先詳細 | 電話/Text","Height of object changed by +5 pts""連絡先.fmp12","Layouts","GROUP:電話/LAYOUT:連絡先詳細 | 電話/Text/STYLE:","Original Style was deleted: REFERENCE: Layout: 連絡先詳細 | 電話""連絡先.fmp12","Layouts","GROUP:電話/LAYOUT:連絡先詳細 | 電話/Text/STYLE:","Modified Style was created: REFERENCE: Layout: 連絡先詳細 | 電話""連絡先.fmp12","Scripts","SCRIPT:トリガ | 最初のウィンドウが開いたとき/Step 10: レイアウト切り替え [ 「連絡先詳細」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:トリガ | 最初のウィンドウが開いたとき/Step 12: レイアウト切り替え [ 「連絡先詳細 | タブレット」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細 | タブレット」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細 | タブレット」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:トリガ | 最初のウィンドウが開いたとき/Step 14: レイアウト切り替え [ 「連絡先詳細 | 電話」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細 | 電話」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細 | 電話」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:トリガ | 最初のウィンドウが開いたとき/Step 18: レイアウト切り替え [ 「連絡先詳細 | タブレット」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細 | タブレット」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細 | タブレット」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:トリガ | 最初のウィンドウが開いたとき/Step 20: レイアウト切り替え [ 「連絡先詳細 | 電話」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細 | 電話」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細 | 電話」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:トリガ | 一覧内で連絡先を作成 | モバイル/Step 10: レイアウト切り替え [ 「連絡先詳細 | タブレット」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細 | タブレット」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細 | タブレット」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:トリガ | 一覧内で連絡先を作成 | モバイル/Step 12: レイアウト切り替え [ 「連絡先詳細 | 電話」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細 | 電話」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細 | 電話」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:トリガ | 一覧内で連絡先を作成 | モバイル/Step 16: レイアウト切り替え [ 「連絡先詳細 | タブレット」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細 | タブレット」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細 | タブレット」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:トリガ | 一覧内で連絡先を作成 | モバイル/Step 18: レイアウト切り替え [ 「連絡先詳細 | 電話」 (連絡先) ]","Step edited - レイアウト切り替え [ 「連絡先詳細 | 電話」 ] /// ENABLED: True -> レイアウト切り替え [ 「連絡先詳細 | 電話」 (連絡先) ] /// ENABLED: True""連絡先.fmp12","Scripts","SCRIPT:追加スクリプト","Modified Script was created: 追加スクリプト"
